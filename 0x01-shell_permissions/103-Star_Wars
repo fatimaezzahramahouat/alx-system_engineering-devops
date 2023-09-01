@@ -1,2 +1,2 @@
 #!/bin/bash
-cowsay "Hello, world!"
+telnet towel.blinkenlights.nl
