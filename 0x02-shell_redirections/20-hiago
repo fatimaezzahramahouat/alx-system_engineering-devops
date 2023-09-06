@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "I/O" | tr -d 'cC'
+tr -d 'C' | tr -d 'c'
